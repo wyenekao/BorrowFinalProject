@@ -9,5 +9,3 @@
 - C#
 - Entity Framework Core
 - MS SQL Server
-
-- 
